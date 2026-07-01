@@ -1,42 +1,35 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Marycynthia Okeke
 
 ---
 
 ## Key Concepts I Learned
+I learned how to edit files directly on GitHub, as I'm used to VS Code edits.
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
 -
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+I created a copy of the classnotes from Microsoft-Naija-Security-Usergroup on github for my own use
 
 ### What I did
 
-
+I forked the Microsoft-Naija-Security-Usergroup repo
+I saved the template file to my local system and uploaded this file to my github
+I committed the changes
 ### What happened / Result
-
+I successfully uploaded and customized my notes for submission
 
 ### Challenges I faced
 
+I was little confused as to the actions to be taken in the forked repository and the general repository
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
+Learning how to edit github files directly. It's a new lesson to me
 
 
 ---
