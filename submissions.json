@@ -1,0 +1,237 @@
+[
+  {
+    "num": "00",
+    "folder": "session-00-2026-06-27-pre-bootcamp-onboarding",
+    "title": "Pre-Bootcamp Onboarding",
+    "date": "27 Jun 2026",
+    "status": "done",
+    "submissions": [
+      "pre-bootcamp-onboarding-AJEKUNLE RUKAYAT-template.md",
+      "pre-bootcamp-onboarding-Abowaba-Adekunle-template.md",
+      "pre-bootcamp-onboarding-Arinze-Fortune-Ihekweme.md",
+      "pre-bootcamp-onboarding-Bridget-Evavoawe.md",
+      "pre-bootcamp-onboarding-Busola_Oladokun.md",
+      "pre-bootcamp-onboarding-David-Adama-template.md",
+      "pre-bootcamp-onboarding-Folaranmi-Abolade-Felix.md",
+      "pre-bootcamp-onboarding-George-Ukato.md",
+      "pre-bootcamp-onboarding-Idowu-Abdulganeey-Olawale.md",
+      "pre-bootcamp-onboarding-Isaac-Uzu.md",
+      "pre-bootcamp-onboarding-Michael Onwumere.md",
+      "pre-bootcamp-onboarding-Muhammed-Opeyemi-Shakiru.md",
+      "pre-bootcamp-onboarding-OMOTOLANI-ABIKE-AWE.md",
+      "pre-bootcamp-onboarding-Obiajuru-Okafor.md",
+      "pre-bootcamp-onboarding-Oroma-Unife.md",
+      "pre-bootcamp-onboarding-Richard Inyang.md",
+      "pre-bootcamp-onboarding-SaturdayEmunefe.md",
+      "pre-bootcamp-onboarding-Taiwo_Durodola-Tunde.md",
+      "pre-bootcamp-onboarding-Victor-Matthew-template.md",
+      "pre-bootcamp-onboarding-Wallace Tudeme.md",
+      "pre-bootcamp-onboarding-Zainab-Alabi.md",
+      "pre-bootcamp-onboarding-dare-ademola.md",
+      "pre-bootcamp-onboarding-emmanuel-okereke-template.md",
+      "pre-bootcamp-onboarding-iniobong-johnson.md",
+      "pre-bootcamp-onboarding-okoruwaobehiemmanuel-template.md",
+      "pre-bootcamp-onboarding-promise-ibediogwu-ekele.md"
+    ]
+  },
+  {
+    "num": "01",
+    "folder": "session-01-2026-07-04-microsoft-entra",
+    "title": "Microsoft Entra",
+    "date": "4 Jul 2026",
+    "status": "next",
+    "submissions": []
+  },
+  {
+    "num": "02",
+    "folder": "session-02-2026-07-11-azure-key-vault",
+    "title": "Azure Key Vault",
+    "date": "11 Jul 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "03",
+    "folder": "session-03-2026-07-18-governance-compliance-pt1",
+    "title": "Governance & Compliance Pt1",
+    "date": "18 Jul 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "04",
+    "folder": "session-04-2026-07-25-governance-compliance-pt2",
+    "title": "Governance & Compliance Pt2",
+    "date": "25 Jul 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "05",
+    "folder": "session-05-2026-08-01-azure-storage-security",
+    "title": "Azure Storage Security",
+    "date": "1 Aug 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "06",
+    "folder": "session-06-2026-08-08-azure-sql-security",
+    "title": "Azure SQL Security",
+    "date": "8 Aug 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "07",
+    "folder": "session-07-2026-08-15-network-security-pt1",
+    "title": "Network Security Pt1",
+    "date": "15 Aug 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "08",
+    "folder": "session-08-2026-08-22-network-security-pt2",
+    "title": "Network Security Pt2",
+    "date": "22 Aug 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "09",
+    "folder": "session-09-2026-08-29-ai-security-pt1",
+    "title": "AI Security Pt1",
+    "date": "29 Aug 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "10",
+    "folder": "session-10-2026-09-05-ai-security-pt2",
+    "title": "AI Security Pt2",
+    "date": "5 Sep 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "11",
+    "folder": "session-11-2026-09-12-ai-security-pt3",
+    "title": "AI Security Pt3",
+    "date": "12 Sep 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "12",
+    "folder": "session-12-2026-09-19-server-vm-security-pt1",
+    "title": "Server & VM Security Pt1",
+    "date": "19 Sep 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "13",
+    "folder": "session-13-2026-09-26-server-vm-security-pt2",
+    "title": "Server & VM Security Pt2",
+    "date": "26 Sep 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "14",
+    "folder": "session-14-2026-10-03-server-vm-security-pt3",
+    "title": "Server & VM Security Pt3",
+    "date": "3 Oct 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "15",
+    "folder": "session-15-2026-10-10-app-platform-security-pt1",
+    "title": "App Platform Security Pt1",
+    "date": "10 Oct 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "16",
+    "folder": "session-16-2026-10-17-app-platform-security-pt2",
+    "title": "App Platform Security Pt2",
+    "date": "17 Oct 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "17",
+    "folder": "session-17-2026-10-24-app-platform-security-pt3",
+    "title": "App Platform Security Pt3",
+    "date": "24 Oct 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "18",
+    "folder": "session-18-2026-10-31-defender-for-cloud-pt1",
+    "title": "Defender for Cloud Pt1",
+    "date": "31 Oct 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "19",
+    "folder": "session-19-2026-11-07-defender-for-cloud-pt2",
+    "title": "Defender for Cloud Pt2",
+    "date": "7 Nov 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "20",
+    "folder": "session-20-2026-11-14-defender-for-cloud-pt3",
+    "title": "Defender for Cloud Pt3",
+    "date": "14 Nov 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "21",
+    "folder": "session-21-2026-11-21-sentinel-pt1",
+    "title": "Microsoft Sentinel Pt1",
+    "date": "21 Nov 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "22",
+    "folder": "session-22-2026-11-28-sentinel-pt2",
+    "title": "Microsoft Sentinel Pt2",
+    "date": "28 Nov 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "23",
+    "folder": "session-23-2026-12-05-sentinel-pt3",
+    "title": "Microsoft Sentinel Pt3",
+    "date": "5 Dec 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "24",
+    "folder": "session-24-2026-12-12-security-copilot",
+    "title": "Security Copilot",
+    "date": "12 Dec 2026",
+    "status": "upcoming",
+    "submissions": []
+  },
+  {
+    "num": "25",
+    "folder": "session-25-2026-12-19-ama-career-mentorship",
+    "title": "AMA & Career Mentorship",
+    "date": "19 Dec 2026",
+    "status": "upcoming",
+    "submissions": []
+  }
+]
