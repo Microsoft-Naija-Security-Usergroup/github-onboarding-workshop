@@ -1,4 +1,4 @@
-# My Notes — TIMOTHY AYOBAMI ABRAHAM]
+# My Notes — OLAJIDE SAMSON]
 
 ---
 
@@ -60,4 +60,4 @@ BOOTCAMP NAIJA AI and CLOUD SECURITY GITHUB.
 https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop/edit/main/classes/session-00-2026-06-27-pre-bootcamp-onboarding/pre-bootcamp-onboarding-yourname-template.md
 ---
 
-*Submitted by: [TIMOTHY ABRAHAM ] · [TIMOTHY ABRAHAM ]*
+*Submitted by: [OLAJIDE SAMSON ] · [OLAJIDE SAMSON ]*
