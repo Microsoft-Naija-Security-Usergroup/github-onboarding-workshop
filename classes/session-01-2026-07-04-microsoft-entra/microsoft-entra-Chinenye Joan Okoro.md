@@ -59,31 +59,32 @@ Step 8: Enable Policy to Report-only
 Step 9: Create
 
 ### What happened / Result
-<img width="1366" height="768" alt="Picture 25" src="https://github.com/user-attachments/assets/9fe99e29-58cb-481e-a944-145e93d2ea91" />
-<img width="1366" height="768" alt="Picture 24" src="https://github.com/user-attachments/assets/9f629800-627d-4eb5-973d-61ce95ea2f92" />
-<img width="1366" height="768" alt="Picture 23" src="https://github.com/user-attachments/assets/5ab06492-24bf-4c9f-99c7-a291f9ed7114" />
-<img width="1366" height="768" alt="Picture 22" src="https://github.com/user-attachments/assets/b00f0702-07ed-4838-818d-f95b91186160" />
-<img width="1366" height="768" alt="Picture 21" src="https://github.com/user-attachments/assets/35751708-bc1c-4a92-856a-f085af2eea28" />
-<img width="1366" height="768" alt="Picture 20" src="https://github.com/user-attachments/assets/7b9cb0a6-09f6-4fa2-b77a-375a0275524e" />
-<img width="1366" height="768" alt="Picture 19" src="https://github.com/user-attachments/assets/feeaa345-8f6e-42c8-9140-bcb1d7ee9c7f" />
-<img width="1366" height="768" alt="Picture 18" src="https://github.com/user-attachments/assets/10ad02cb-e11b-45aa-946c-04765c71eef6" />
-<img width="1366" height="768" alt="Picture 17" src="https://github.com/user-attachments/assets/b8f81de2-dee3-4263-aab8-1c9cf65fe53a" />
-<img width="1366" height="768" alt="Picture 16" src="https://github.com/user-attachments/assets/4e540016-5358-47bb-9cd2-78b32ebc8668" />
-<img width="1366" height="768" alt="Picture 15" src="https://github.com/user-attachments/assets/5f54d836-a74c-4e69-b6d1-c52255d64f53" />
-<img width="1366" height="768" alt="Picture 14" src="https://github.com/user-attachments/assets/b55bbed9-3239-4ac8-9680-c7b5d7a8629c" />
-<img width="1366" height="768" alt="Picture 13" src="https://github.com/user-attachments/assets/6900a4f0-3128-43aa-8538-21bdc5cbfb24" />
-<img width="1366" height="768" alt="Picture 12" src="https://github.com/user-attachments/assets/7cb9ed74-9b34-44d8-a4a2-6528ba3aa878" />
-<img width="1366" height="768" alt="Picture 11" src="https://github.com/user-attachments/assets/147912e4-7eee-4974-8f80-d16b3eca2f56" />
-<img width="1366" height="768" alt="Picture 10" src="https://github.com/user-attachments/assets/0f7e9634-cd39-4d94-82e2-5144c335a084" />
-<img width="1366" height="768" alt="Picture 9" src="https://github.com/user-attachments/assets/c5fe6070-7270-446b-87eb-706eb763d71c" />
-<img width="1366" height="768" alt="Picture 8" src="https://github.com/user-attachments/assets/9a85bcb2-f947-4ea2-befa-0d8877ee19dc" />
-<img width="1366" height="768" alt="Picture 7" src="https://github.com/user-attachments/assets/6cccc46c-6194-48f9-90d0-94f8984ad451" />
-<img width="1366" height="768" alt="Picture 6" src="https://github.com/user-attachments/assets/dac61802-dc98-4255-bfe5-5ea49d1afb07" />
-<img width="1366" height="768" alt="Picture 5" src="https://github.com/user-attachments/assets/1000d5df-7638-481f-a2e3-ed7dec8e753d" />
-<img width="1366" height="768" alt="Picture 4" src="https://github.com/user-attachments/assets/3d826d06-a608-49de-8265-55561148cae4" />
-<img width="1366" height="768" alt="Picture 3" src="https://github.com/user-attachments/assets/6bd1f562-3fff-481d-a790-19a87bd340bc" />
-<img width="1366" height="768" alt="Picture 2" src="https://github.com/user-attachments/assets/57042653-f4ae-42aa-b828-945c99737aa7" />
-<img width="783" height="446" alt="Picture 1 Lab 1 Question" src="https://github.com/user-attachments/assets/f056e69d-ba5f-4e55-b81e-0d300e34c00b" />
+
+<img width="1366" height="768" alt="Picture 24" src="https://github.com/user-attachments/assets/14ead864-b44b-4748-93a4-0479e188c0e5" />
+<img width="1366" height="768" alt="Picture 23" src="https://github.com/user-attachments/assets/0dc609ac-1d5a-4083-9054-52a94bdb7147" />
+<img width="1366" height="768" alt="Picture 22" src="https://github.com/user-attachments/assets/645ec874-088b-4187-8e12-2ae0e0e0eb95" />
+<img width="1366" height="768" alt="Picture 21" src="https://github.com/user-attachments/assets/94667e05-4a3c-41f5-bb2c-1674e445c77b" />
+<img width="1366" height="768" alt="Picture 20" src="https://github.com/user-attachments/assets/e90920b9-e0ec-45e8-bdff-79e6fb36a7c2" />
+<img width="1366" height="768" alt="Picture 19" src="https://github.com/user-attachments/assets/98cb3185-c004-4476-9a15-54dbad569f13" />
+<img width="1366" height="768" alt="Picture 18" src="https://github.com/user-attachments/assets/5d3284b0-aaac-4034-ab72-f96e88228965" />
+<img width="1366" height="768" alt="Picture 17" src="https://github.com/user-attachments/assets/f8274ca6-3f0e-45ae-80ec-f465491faf5c" />
+<img width="1366" height="768" alt="Picture 16" src="https://github.com/user-attachments/assets/00729723-cafb-48ae-8a43-5fbd9aec237a" />
+<img width="1366" height="768" alt="Picture 15" src="https://github.com/user-attachments/assets/e8b1bf66-2cb3-4d9c-a9f4-ca180ab4845a" />
+<img width="1366" height="768" alt="Picture 14" src="https://github.com/user-attachments/assets/46902311-3ec7-4b78-9fbb-f38ea571e06b" />
+<img width="1366" height="768" alt="Picture 13" src="https://github.com/user-attachments/assets/b0fd780f-a0c5-4f01-bfab-b852512b6416" />
+<img width="1366" height="768" alt="Picture 12" src="https://github.com/user-attachments/assets/299b3493-4313-41ba-b35c-75818abaa293" />
+<img width="1366" height="768" alt="Picture 11" src="https://github.com/user-attachments/assets/e10b074b-a97c-4f51-9479-6fd32d247ec0" />
+<img width="1366" height="768" alt="Picture 10" src="https://github.com/user-attachments/assets/830d6237-b478-4d82-a5f5-4cc7eeb98918" />
+<img width="1366" height="768" alt="Picture 9" src="https://github.com/user-attachments/assets/8d241eae-c761-46ed-8608-c540c4d644b1" />
+<img width="1366" height="768" alt="Picture 8" src="https://github.com/user-attachments/assets/5d52faf9-b9a4-49ca-af5d-5595fce4e1ae" />
+<img width="1366" height="768" alt="Picture 7" src="https://github.com/user-attachments/assets/cbb38382-3d86-4b28-9198-eb05c41b7c1f" />
+<img width="1366" height="768" alt="Picture 6" src="https://github.com/user-attachments/assets/bbaf937c-9dd1-439f-b74f-1b1cdfe7df17" />
+<img width="1366" height="768" alt="Picture 5" src="https://github.com/user-attachments/assets/e9cc828b-6ea6-45c2-a2b4-bfb489cce655" />
+<img width="1366" height="768" alt="Picture 4" src="https://github.com/user-attachments/assets/de304497-a0ee-4805-b5f8-d1c74e82f299" />
+<img width="1366" height="768" alt="Picture 3" src="https://github.com/user-attachments/assets/4e0a91b8-e77a-45e1-8d27-2e355ae81df4" />
+<img width="1366" height="768" alt="Picture 2" src="https://github.com/user-attachments/assets/bb506c97-f69d-4a23-8653-c80e80af05b7" />
+<img width="783" height="446" alt="Picture 1 Lab 1 Question" src="https://github.com/user-attachments/assets/94a7a7cf-05a1-40c3-b179-34657dda17a7" />
+
 
 
 
