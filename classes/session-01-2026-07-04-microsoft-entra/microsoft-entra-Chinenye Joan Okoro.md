@@ -123,7 +123,7 @@ is there any solution?
 
 ASSIGNMENT 2
 - I need a basic knowledge of APIs, the documentation was a very challenging read
-- Visual studio code
+- No basic knowledge of Visual studio code yet
 
 - I still find it challenging to upload on GitHub. I don't really know the steps , it's usaully trial and error, so if I'm to teach another person the process its somewhat challenging.
 
