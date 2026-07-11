@@ -30,9 +30,7 @@ Portal to integrate with an API secured with OAuth.
 - Declarative agents are AI-Powered assistants in Copilot that can securely connect to external APIs and be optimized
 for specific scenerios.
 
--
--
--
+
 
 ---
 
