@@ -98,7 +98,7 @@ Refresh Token - lets you renew access without re signing in and has a lifetime o
 
 ## Questions I Still Have
 
-Credential rotation
+- Credential Rotation
 -
 -
 
@@ -106,7 +106,7 @@ Credential rotation
 
 ## Resources I Found Useful
 
-<[!](https://learn.microsoft.com/en-us/training/paths/configure-key-vault-security/)
+(https://learn.microsoft.com/en-us/training/paths/configure-key-vault-security/)
 
 -
 
