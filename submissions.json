@@ -268,9 +268,9 @@
     "date": "8 Aug 2026",
     "status": "upcoming",
     "submissions": [
-      "azure-sql-security-Elu-Emmanuel.md"
       "azure-sql-security-Abiola-Habeeb.md",
       "azure-sql-security-Ejike-Etolue.md",
+      "azure-sql-security-Elu-Emmanuel.md",
       "azure-sql-security-Marycynthia-Okeke.md",
       "azure-sql-security-Oduola Ifeoluwa.md",
       "azure-sql-security-berna -namulyowa.md.md",
@@ -285,7 +285,7 @@
     "date": "15 Aug 2026",
     "status": "upcoming",
     "submissions": [
-      "network-security-pt1-Elu-Emmanuel.md"
+      "network-security-pt1-Elu-Emmanuel.md",
       "network-security-pt1-Oduola Ifeoluwa.md",
       "network-security-pt1-promise-ibediogwu-ekele.md"
     ]
