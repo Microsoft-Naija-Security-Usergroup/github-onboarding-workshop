@@ -1,0 +1,47 @@
+# My Notes — \[JENNIFER ILOHA]
+
+
+## Key Concepts I Learned
+
+* How Microsoft Entra ID helps control access to resources.
+* Multi-Factor Authentication (MFA) as a core layer of identity security.
+* The importance of assigning the right permissions to users and groups.
+* How access controls help protect resources from unauthorized access.
+
+
+## Lab / Hands-On Work
+
+
+
+### What I did
+
+* Explored how to manage access to resources using Microsoft Entra.
+* Practiced assigning permissions and reviewing access settings.
+
+### What happened / Result
+
+* I gained a better understanding of how Entra ID can be used to control who has access to resources and what they can do.
+
+### Challenges I faced
+
+NONE
+
+
+
+## My Takeaways
+
+I learned that managing access isn't just about giving users permissions; it's also about making sure they have the right level of access they actually need. The hands-on practice helped me understand this better.
+
+## Questions I Still Have
+
+* NONE
+
+
+
+## Resources I Found Useful
+
+* https://youtu.be/R7zxI-k3NoQ
+* Microsoft Learn SC-500 learning materials 
+
+
+*Submitted by: \[Jennifer Iloha] · \[Jennifer-Iloha]*
