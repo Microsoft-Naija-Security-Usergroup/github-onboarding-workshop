@@ -53,9 +53,11 @@
   <img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/2c89da01-7637-48fb-88cc-32ab16c35fc5" />
 - Failed RDP access to the webserver
   <img width="936" height="435" alt="image" src="https://github.com/user-attachments/assets/a577d41f-7983-428e-be0a-665da1c2cd48" />
-- Successful RDP access to web server
+- Successful web access to web server
+  
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
-- Failed RDP access to the management server
+- Failed web access to the management server
+  
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 11" src="https://github.com/user-attachments/assets/7cbb210c-9cc4-4232-bc46-83e2592ee726" />
 
 ### Challenges I faced
