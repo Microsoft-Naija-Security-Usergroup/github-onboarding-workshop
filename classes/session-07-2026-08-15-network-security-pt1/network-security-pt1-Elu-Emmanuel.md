@@ -47,6 +47,7 @@
   <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/a8bb444d-4192-4cff-a275-8e3edd1f9cba" />
 
 - Associate each virtual machines network interface to it’s ASG
+  
   <img width="422" height="441" alt="image" src="https://github.com/user-attachments/assets/5e0b8084-466d-4296-9900-19cdb18083fe" />
   <img width="423" height="450" alt="image" src="https://github.com/user-attachments/assets/1f347cd7-b639-4d20-b42b-d5c739b73327" />
 
