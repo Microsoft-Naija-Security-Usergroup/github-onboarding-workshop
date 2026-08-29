@@ -76,26 +76,33 @@ Any rule assigned and has the lowest number takes the privilege.
 
 Created a Virtual Network under resource group- Bernanetsec, virtual name: Nalin and default subnet: Nalin-subnet
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 120649" src="https://github.com/user-attachments/assets/37880896-dc53-4897-8967-ea29ca053910" />
 
 
 Created a Application Security Groups one for the webserver (ASG-Nalinwebserver) and the other for the management server (ASG-Nalinmgtserver)
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 121536" src="https://github.com/user-attachments/assets/f3883599-3aae-4294-a796-12963d8754e8" />
 
 
 
 Created a Network Security Group: NSG-Nalin
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 124817" src="https://github.com/user-attachments/assets/4ae46e92-18da-45a6-9e1e-a08d030d720a" />
 
 
 Apply NSG on a subnet. Select ***subnet*** under the NSG then ***Associate***
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 125508" src="https://github.com/user-attachments/assets/6c63e04e-f6f6-4269-8a30-d32626d15536" />
+
 
 
 
 Add an Inbound security rule on the webserver. Select ***Inbound security rules*** click on ***Add*** and fill in the particulars.
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 131346" src="https://github.com/user-attachments/assets/92880efc-ccd7-4428-8ea7-c846bda4e4f0" />
 
 
 Add an Inbound security rule on the mgmtserver. To be able to RDP to the webserver. Select ***Inbound security rules*** click on ***Add*** and fill in the particulars.
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 131406" src="https://github.com/user-attachments/assets/be1c76c5-98fc-43bb-bedd-7fb26ba3c652" />
 
 
 
@@ -103,18 +110,22 @@ Add an Inbound security rule on the mgmtserver. To be able to RDP to the webserv
 Created a Virtual Machine for the webserver
 
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 133707" src="https://github.com/user-attachments/assets/dfaf223f-0178-4119-91c2-80f4b76d8ec4" />
 
 Created another for the management server
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 134537" src="https://github.com/user-attachments/assets/416cde5f-1e87-4c1a-99aa-1b03d3e54dbd" />
 
 
 
 Add application security group to both virtual machines
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 135052" src="https://github.com/user-attachments/assets/ebf019d0-8250-4e47-bcd5-41c93559d11d" />
 
 
 Connect the Mgmtserver to the RDP
 
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-27 141049" src="https://github.com/user-attachments/assets/8788c5c7-5d83-4d88-b368-bc5df0d3062f" />
 
 
 
@@ -156,8 +167,7 @@ Select the ***Scope*** box, then select the checkbox next to ***MyPublicIPAddres
 
 Select ***Apply*** then On the ***Metrics*** box, select ***Inbound packets dropped DDoS***. On the ***Aggregation*** box, select ***Max***.
 
-
-
+<img width="2880" height="1800" alt="Screenshot 2026-08-29 122602" src="https://github.com/user-attachments/assets/95f5012e-f238-40e4-87bc-6a714fc5372a" />
 
 
 
@@ -178,9 +188,13 @@ Under ***Destination details***, select the ***Send to Log Analytics workspace**
 
 Select ***virtual machine***, then ***Create***. On the ***Basics tab***, create a new VM using the information in the table below. Select ***Review + create***.
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-29 132604" src="https://github.com/user-attachments/assets/c971eb13-3440-4670-9b92-30cbc7adc9b9" />
+
 On the ***Generate new key pair*** dialog box, select ***Download private key and create resource***.
 
 Save the private key. When deployment is complete, select Go to resource.
+<img width="2880" height="1800" alt="Screenshot 2026-08-29 134337" src="https://github.com/user-attachments/assets/1976dbf3-fa74-4840-9e00-5cb08a54247f" />
+
 
 &#x20; **Assign the Public IP address**
 
@@ -200,13 +214,11 @@ Select Under DDoS attack or not for the signal name. Under Alert logic find the 
 
 On Threshold value, enter ***1*** (means under attack). Navigate to the details tab and select ***Alert rule name***, enter ***MyDdosAlert***. Select ***Create alert rule.***
 
+<img width="2880" height="1800" alt="Screenshot 2026-08-29 140443" src="https://github.com/user-attachments/assets/cca44a84-8c2a-41b8-a4dc-5f7f1c71af65" />
 
 
 **7. Test with simulation partners**
 
-On the Azure portal, open the PowerShell session within the Cloud Shell pane.
-
-Delete all resource groups you created throughout the labs of this module by running the following command:
 
 ### What happened / Result
 
