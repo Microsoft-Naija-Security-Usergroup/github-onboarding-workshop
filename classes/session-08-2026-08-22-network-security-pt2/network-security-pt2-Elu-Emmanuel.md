@@ -1,12 +1,5 @@
 # My Notes — Elu Uchenna Emmanuel
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
 ---
 
 ## Key Concepts I Learned
@@ -17,7 +10,7 @@
 - Hub and Spoke topology
 - Service endpoint versus private endpoints
 - Microsoft Entra private access versus VPN
-- Network Watcher
+- Network Watcher tools (IP Flow verify, Topology etc.)
 
 ---
 
@@ -26,7 +19,10 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-- Create Azure Firewall lab
+- Created Azure Firewall lab
+  
+  <img width="654" height="307" alt="image" src="https://github.com/user-attachments/assets/ec3e0dae-86f9-443d-97ab-4bcf840412c8" />
+
 - Created vnet with 2 subnets (workload subnet and jump host subnet)
 - Created a custom route that ensures all outbound workload traffic from the workload subnet must use the firewall
 - Firewall Application rules that only allow outbound traffic to www.bing.com
