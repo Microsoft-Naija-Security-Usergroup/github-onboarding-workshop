@@ -46,16 +46,21 @@
   <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/a8bb444d-4192-4cff-a275-8e3edd1f9cba" />
 
 - Associate each virtual machines network interface to it’s ASG
+  
   <img width="422" height="441" alt="image" src="https://github.com/user-attachments/assets/5e0b8084-466d-4296-9900-19cdb18083fe" />
   <img width="423" height="450" alt="image" src="https://github.com/user-attachments/assets/1f347cd7-b639-4d20-b42b-d5c739b73327" />
 
 - Successful RDP access to mgmt. server
+  
   <img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/2c89da01-7637-48fb-88cc-32ab16c35fc5" />
 - Failed RDP access to the webserver
+  
   <img width="936" height="435" alt="image" src="https://github.com/user-attachments/assets/a577d41f-7983-428e-be0a-665da1c2cd48" />
-- Successful RDP access to web server
+- Successful IIS access to web server
+  
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
-- Failed RDP access to the management server
+- Failed IIS access to the management server
+  
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 11" src="https://github.com/user-attachments/assets/7cbb210c-9cc4-4232-bc46-83e2592ee726" />
 
 ### Challenges I faced
