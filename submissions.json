@@ -286,6 +286,7 @@
     "date": "15 Aug 2026",
     "status": "upcoming",
     "submissions": [
+      "network-security-pt1-Abiola-Habeeb.md",
       "network-security-pt1-Elu-Emmanuel.md",
       "network-security-pt1-Oduola Ifeoluwa.md",
       "network-security-pt1-promise-ibediogwu-ekele.md"
@@ -297,7 +298,9 @@
     "title": "Network Security Pt2",
     "date": "22 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "network-security-pt2-Abiola-Habeeb.md"
+    ]
   },
   {
     "num": "09",
