@@ -1,6 +1,6 @@
 # My Notes — \[George Ukato]
 
-## Key Concepts I Learned
+## Key Concepts I Learnt
 
 <!-- Write the main ideas covered in today's session -->
 
