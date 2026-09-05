@@ -33,6 +33,7 @@
   <img width="933" height="275" alt="image" src="https://github.com/user-attachments/assets/6596a187-b87f-4845-8fa2-5be1338f8c93" />
   <img width="431" height="493" alt="image" src="https://github.com/user-attachments/assets/c165118e-6a8a-4ab4-b7fc-fd0213ba63cc" />
 - NSG and ASG created successfully
+  
   <img width="414" height="474" alt="image" src="https://github.com/user-attachments/assets/1881ffab-31fc-4cf8-b93a-2540edb67fc6" />
   <img width="889" height="425" alt="image" src="https://github.com/user-attachments/assets/28e1b50e-351f-437f-8906-bd0f89dc4926" />
 
@@ -56,6 +57,11 @@
 - Failed RDP access to the webserver
   
   <img width="936" height="435" alt="image" src="https://github.com/user-attachments/assets/a577d41f-7983-428e-be0a-665da1c2cd48" />
+- Successful web access to web server
+  
+  <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
+  
+- Failed web access to the management server
 - Successful IIS access to web server
   
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
