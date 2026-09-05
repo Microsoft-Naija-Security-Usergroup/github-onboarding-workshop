@@ -301,7 +301,8 @@
     "date": "22 Aug 2026",
     "status": "upcoming",
     "submissions": [
-      "network-security-pt2-Abiola-Habeeb.md"
+      "network-security-pt2-Abiola-Habeeb.md",
+      "network-security-pt2-promise-ibediogwu-ekele.md"
     ]
   },
   {
@@ -310,7 +311,9 @@
     "title": "AI Security Pt1",
     "date": "29 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "ai-security-pt1-promise-ibediogwu-ekele.md"
+    ]
   },
   {
     "num": "10",
