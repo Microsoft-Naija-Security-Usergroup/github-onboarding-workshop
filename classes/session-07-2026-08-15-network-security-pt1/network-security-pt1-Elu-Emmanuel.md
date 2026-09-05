@@ -62,6 +62,10 @@
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
   
 - Failed web access to the management server
+- Successful IIS access to web server
+  
+  <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 12" src="https://github.com/user-attachments/assets/2ad23bc2-5e77-4cb0-8b3e-464bf94638f0" />
+- Failed IIS access to the management server
   
   <img width="486" height="1080" alt="WhatsApp Image 2026-08-20 at 15 37 11" src="https://github.com/user-attachments/assets/7cbb210c-9cc4-4232-bc46-83e2592ee726" />
 

@@ -275,6 +275,7 @@
       "azure-sql-security-Marycynthia-Okeke.md",
       "azure-sql-security-Oduola Ifeoluwa.md",
       "azure-sql-security-berna -namulyowa.md.md",
+      "azure-sql-security-ikechukwu-ezeonu.md",
       "azure-sql-security-michael-onwumere.md",
       "azure-sql-security-promise-ibediogwu-ekele.md"
     ]
@@ -286,8 +287,11 @@
     "date": "15 Aug 2026",
     "status": "upcoming",
     "submissions": [
+      "network-security-Marycynthia Okeke.md",
+      "network-security-pt1-Abiola-Habeeb.md",
       "network-security-pt1-Elu-Emmanuel.md",
       "network-security-pt1-Oduola Ifeoluwa.md",
+      "network-security-pt1-ikechukwu-ezeonu.md",
       "network-security-pt1-promise-ibediogwu-ekele.md"
     ]
   },
@@ -299,6 +303,8 @@
     "status": "upcoming",
     "submissions": [
       "network-security-pt2-Elu-Emmanuel.md"
+      "network-security-pt2-Abiola-Habeeb.md",
+      "network-security-pt2-promise-ibediogwu-ekele.md"
     ]
   },
   {
@@ -307,7 +313,9 @@
     "title": "AI Security Pt1",
     "date": "29 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "ai-security-pt1-promise-ibediogwu-ekele.md"
+    ]
   },
   {
     "num": "10",
